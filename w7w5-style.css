@@ -1,0 +1,11 @@
+tbody tr td {
+	padding:10px;
+	background-color:#7DCBD0;
+	text-align:center;
+}
+
+tbody th {
+	padding:10px;
+	background-color:#0D5268;
+	color:white;
+}
